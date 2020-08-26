@@ -1,1 +1,1 @@
-# SpectrumNextToolChain
+# ZXSpectrumNextToolChain
