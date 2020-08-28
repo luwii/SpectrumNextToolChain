@@ -9,3 +9,4 @@ Tools used:
 - Emulator - ZEsarUX 
   
  Refer to this blog post for detailed instructions
+ https://theluwii.blogspot.com/2020/08/zx-spectrum-development-toolchain.html
